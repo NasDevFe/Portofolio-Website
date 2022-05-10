@@ -10,8 +10,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
-  background-color: mintcream;
+  /* color: #272829; */
+  color: black;
+  background-color:  #FFFFFF;
 }
 
 a {
