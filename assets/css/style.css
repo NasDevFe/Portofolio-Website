@@ -1060,27 +1060,19 @@ iframe{
   left: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-  iframe {
-    width: 400px;
-    height  : 400px;
-  }
-}
-
-@media only screen and (min-width: 401px) and (max-width:500px) {
+@media only screen and (max-width: 400px) {
   iframe {
     width: 300px;
     height : 300px; 
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   iframe {
-    width: 200px;
-    height : 200px; 
+    width: 450px;
+    height  : 450px;
   }
 }
-
 
 
 
